@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">ImageApp</string>
+    <string name="btn_camara">Camara</string>
+    <string name="iv_visor">visor</string>
+
+</resources>
